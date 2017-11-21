@@ -1,2 +1,2 @@
 # l-tracker-android
-Driving school android app ggg hhh
+Driving school android app
